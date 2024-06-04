@@ -11,7 +11,7 @@
 <details>
 <summary><h3>Скриншоты</h3></summary>
   <br>
-<img src="[https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/Retention.jpg](https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/Retention.jpg)" alt='Retention screen' width='720''>
+<img src="https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/Retention.jpg" alt='Retention screen' width='720''>
   <br> 
 <img src="[https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/DataFrame.JPG](https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/DataFrame.JPG)" alt='Retention screen' width='720''>
   <br> 
