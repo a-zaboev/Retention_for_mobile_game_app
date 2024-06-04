@@ -16,3 +16,4 @@
 <img src="[https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/DataFrame.JPG](https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/DataFrame.JPG)" alt='Retention screen' width='720''>
   <br> 
 <img src="[https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/Visualization.JPG](https://github.com/a-zaboev/Retention_for_mobile_game_app/blob/main/Visualization.JPG)" alt='Retention screen' width='720''>
+</details>
